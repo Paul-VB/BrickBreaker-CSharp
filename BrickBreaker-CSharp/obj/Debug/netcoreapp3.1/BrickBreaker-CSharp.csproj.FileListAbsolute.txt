@@ -1,0 +1,13 @@
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\bin\Debug\netcoreapp3.1\BrickBreaker-CSharp.exe
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\bin\Debug\netcoreapp3.1\BrickBreaker-CSharp.deps.json
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\bin\Debug\netcoreapp3.1\BrickBreaker-CSharp.runtimeconfig.json
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\bin\Debug\netcoreapp3.1\BrickBreaker-CSharp.runtimeconfig.dev.json
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\bin\Debug\netcoreapp3.1\BrickBreaker-CSharp.dll
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\bin\Debug\netcoreapp3.1\BrickBreaker-CSharp.pdb
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker-CSharp.csprojAssemblyReference.cache
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker-CSharp.AssemblyInfoInputs.cache
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker-CSharp.AssemblyInfo.cs
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker-CSharp.csproj.CoreCompileInputs.cache
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker-CSharp.dll
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker-CSharp.pdb
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker-CSharp.genruntimeconfig.cache
