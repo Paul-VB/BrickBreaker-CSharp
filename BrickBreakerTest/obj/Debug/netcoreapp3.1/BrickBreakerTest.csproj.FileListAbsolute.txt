@@ -1,0 +1,4 @@
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.csprojAssemblyReference.cache
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.AssemblyInfoInputs.cache
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.AssemblyInfo.cs
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.csproj.CoreCompileInputs.cache

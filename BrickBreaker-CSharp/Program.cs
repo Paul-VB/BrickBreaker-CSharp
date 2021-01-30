@@ -7,8 +7,11 @@ namespace BrickBreaker_CSharp
     {
         static void Main(string[] args)
         {
-            Ball b = new Ball(20, 20);
-            b.Draw();
+            GameLoop.NewGame(100,100);
+            foreach(Entity e in Entity.listOfAllEntities)
+            {
+                e.Draw();
+            }
             Console.Read();
         }
     }
