@@ -6,12 +6,8 @@ namespace BrickBreaker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DateTimeOffset.Now.ToUnixTimeMilliseconds());
-            //GameLoop.NewGame(100,100);
-            foreach(Entity e in Entity.listOfAllEntities)
-            {
-                e.Draw();
-            }
+            GameLoop.NewGame(100,100);
+            GameLoop.Play();
             Console.Read();
         }
     }

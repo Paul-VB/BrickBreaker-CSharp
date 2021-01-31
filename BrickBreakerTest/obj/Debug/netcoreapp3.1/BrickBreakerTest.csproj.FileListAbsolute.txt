@@ -92,4 +92,3 @@ H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.dll
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.pdb
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.genruntimeconfig.cache
-H:\git\Side Projects\BrickBreaker-CSharp\BrickBreakerTest\obj\Debug\netcoreapp3.1\BrickBreakerTest.csprojAssemblyReference.cache

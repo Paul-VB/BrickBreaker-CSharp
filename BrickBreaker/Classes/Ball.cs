@@ -14,16 +14,17 @@ namespace BrickBreaker
 
         public double YMomentum { get; set; } = 0;
 
+        public override string DrawString { get; } = "*";
+        public override ConsoleColor Color { get; } = ConsoleColor.Green;
+
         public Ball(double xPos, double yPos) : base(xPos,yPos)
         {
         }
-        public override void Draw()
+
+        public void updatePos(double frameDeltaMultiplier)
         {
-            Console.SetCursorPosition((int)this.XPos, (int)this.YPos);
-            ConsoleColor currColor = Console.ForegroundColor;
-            Console.ForegroundColor = this.Color;
-            Console.Write("*");
-            Console.ForegroundColor = currColor;
+            this.XPos += this.XMomentum * frameDeltaMultiplier;
+            this.YPos += this.YMomentum * frameDeltaMultiplier;
         }
 
 

@@ -11,13 +11,10 @@ namespace BrickBreaker
         {
 
         }
-        public override void Draw()
-        {
-            Console.SetCursorPosition((int)this.XPos, (int)this.YPos);
-            ConsoleColor currColor = Console.ForegroundColor;
-            Console.ForegroundColor = this.Color;
-            Console.Write("█████");
-            Console.ForegroundColor = currColor;
-        }
+
+        public override string DrawString { get; } = "██████████████████";
+
+        public override ConsoleColor Color { get; } = ConsoleColor.Red;
+
     }
 }
