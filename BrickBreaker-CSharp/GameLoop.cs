@@ -1,6 +1,7 @@
 ﻿using BrickBreaker_CSharp.Classes;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 
 namespace BrickBreaker_CSharp
@@ -20,8 +21,28 @@ namespace BrickBreaker_CSharp
 
         public static void Play()
         {
+            Stopwatch sw = new Stopwatch();
+            //we will need a variable to hold true time delta between the previous frame and the current frame
+            long frameDelta = 
             while (true)
             {
+                sw.Start();
+                //get the time delta between the start of the previous frame and the start of the current frame
+                
+                long tickStart = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+
+
+                //do game shit
+
+                //draw shit
+                foreach (Entity e in Entity.listOfAllEntities)
+                {
+                    e.Draw();
+                }
+                sw.Stop();
+                
+
+                
 
             }
         }

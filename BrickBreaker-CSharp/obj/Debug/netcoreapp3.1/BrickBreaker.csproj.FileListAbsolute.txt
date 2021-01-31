@@ -10,3 +10,4 @@ H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\bin\Debug\netcoreap
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker.dll
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker.pdb
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker.genruntimeconfig.cache
+H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker-CSharp\obj\Debug\netcoreapp3.1\BrickBreaker.csprojAssemblyReference.cache

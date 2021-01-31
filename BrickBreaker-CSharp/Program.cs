@@ -7,7 +7,8 @@ namespace BrickBreaker_CSharp
     {
         static void Main(string[] args)
         {
-            GameLoop.NewGame(100,100);
+            Console.WriteLine(DateTimeOffset.Now.ToUnixTimeMilliseconds());
+            //GameLoop.NewGame(100,100);
             foreach(Entity e in Entity.listOfAllEntities)
             {
                 e.Draw();
