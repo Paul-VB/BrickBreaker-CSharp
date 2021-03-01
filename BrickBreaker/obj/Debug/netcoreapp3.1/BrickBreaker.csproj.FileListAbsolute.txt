@@ -23,3 +23,16 @@ H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\Br
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.dll
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.pdb
 H:\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.genruntimeconfig.cache
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.exe
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.deps.json
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.runtimeconfig.json
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.runtimeconfig.dev.json
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.dll
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\bin\Debug\netcoreapp3.1\BrickBreaker.pdb
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.AssemblyInfoInputs.cache
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.AssemblyInfo.cs
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.dll
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.pdb
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.genruntimeconfig.cache
+C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.csprojAssemblyReference.cache

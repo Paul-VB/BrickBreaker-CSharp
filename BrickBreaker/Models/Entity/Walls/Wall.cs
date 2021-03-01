@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BrickBreaker.Views;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,7 +7,19 @@ namespace BrickBreaker.Classes.Walls
 {
     abstract public class Wall : Entity
     {
-
+        public override string[,] AsciiSprite
+        {
+            get
+            {
+                if (this.asciiSprite.GetLength(0) == 0 && this.asciiSprite.GetLength(1) == 0)
+                {
+                    this.asciiSprite = new string[,] {
+                        { $"{AnsiControl.BLUE}█" } 
+                    };
+                }
+                return this.asciiSprite;
+            }
+        }
 
         public enum WallDirection
         {
@@ -19,11 +32,8 @@ namespace BrickBreaker.Classes.Walls
         /// </summary>
         static List<Wall> ListOfAllWalls = new List<Wall>();
 
-        public override string DrawString { get; } = "█";
-
         public abstract WallDirection Direction { get;}
 
-        public override ConsoleColor Color { get; } = ConsoleColor.Blue;
         public Wall(double xPos, double yPos) : base(xPos,yPos)
         {
             ListOfAllWalls.Add(this);

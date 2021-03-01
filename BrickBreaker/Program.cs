@@ -6,9 +6,11 @@ namespace BrickBreaker
     {
         static void Main(string[] args)
         {
-            GameLoop.NewGame(100,100);
+            
+            GameLoop.NewGame(100, 100);
             GameLoop.Play();
             Console.Read();
+            
         }
     }
 }

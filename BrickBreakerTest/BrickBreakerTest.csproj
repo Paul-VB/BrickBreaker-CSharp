@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BrickBreaker-CSharp\BrickBreaker.csproj" />
+    <ProjectReference Include="..\BrickBreaker\BrickBreaker.csproj" />
   </ItemGroup>
 
 </Project>

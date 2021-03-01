@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj": {}
+    "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj": {}
   },
   "projects": {
-    "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj": {
+    "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj",
+        "projectUniqueName": "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj",
         "projectName": "BrickBreaker",
-        "projectPath": "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj",
+        "projectPath": "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj",
         "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-        "outputPath": "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\obj\\",
+        "outputPath": "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

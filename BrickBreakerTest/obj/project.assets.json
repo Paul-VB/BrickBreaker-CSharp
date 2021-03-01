@@ -5644,8 +5644,8 @@
     },
     "BrickBreaker/1.0.0": {
       "type": "project",
-      "path": "../BrickBreaker-CSharp/BrickBreaker.csproj",
-      "msbuildProject": "../BrickBreaker-CSharp/BrickBreaker.csproj"
+      "path": "../BrickBreaker/BrickBreaker.csproj",
+      "msbuildProject": "../BrickBreaker/BrickBreaker.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5664,11 +5664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreakerTest\\BrickBreakerTest.csproj",
+      "projectUniqueName": "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreakerTest\\BrickBreakerTest.csproj",
       "projectName": "BrickBreakerTest",
-      "projectPath": "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreakerTest\\BrickBreakerTest.csproj",
+      "projectPath": "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreakerTest\\BrickBreakerTest.csproj",
       "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-      "outputPath": "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreakerTest\\obj\\",
+      "outputPath": "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreakerTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5688,8 +5688,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker-CSharp\\BrickBreaker.csproj": {
-              "projectPath": "H:\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker-CSharp\\BrickBreaker.csproj"
+            "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj": {
+              "projectPath": "C:\\Users\\Paul\\git\\Side Projects\\BrickBreaker-CSharp\\BrickBreaker\\BrickBreaker.csproj"
             }
           }
         }
@@ -5736,7 +5736,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
