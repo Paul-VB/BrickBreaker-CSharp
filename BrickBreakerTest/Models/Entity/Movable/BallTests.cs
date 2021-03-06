@@ -1,8 +1,9 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using BrickBreaker.Models.Moveable;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using BrickBreaker;
+
 
 namespace BrickBreakerTest.Models.Entity.Movable
 {

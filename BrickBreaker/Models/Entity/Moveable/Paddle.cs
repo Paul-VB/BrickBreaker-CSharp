@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BrickBreaker
+namespace BrickBreaker.Models.Moveable
 {
     public class Paddle : Moveable
     {

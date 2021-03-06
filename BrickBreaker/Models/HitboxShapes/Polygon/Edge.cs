@@ -26,8 +26,6 @@ namespace BrickBreaker.Models.HitboxShapes.Polygon
             }
         }
 
-
-
         /// <summary>
         /// gets the slope of this edge given the algebraic equation m=(y2-y1)/(x2-x1).
         /// </summary>
@@ -54,11 +52,6 @@ namespace BrickBreaker.Models.HitboxShapes.Polygon
             this.VertexA = vertexA;
             this.VertexB = vertexB;
         }
-
-
-
-
-
         public bool CheckCircleCollision(Circle c)
         {
             //the checking is done in 2 stages

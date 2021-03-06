@@ -105,7 +105,7 @@ namespace BrickBreaker
                 }
 
                 //draw shit
-                ConsoleBufferedFrame buffer = new ConsoleBufferedFrame(GameLoop.fieldWidth + 1, GameLoop.fieldHeight + 1);
+                ConsoleFrameBuffer buffer = new ConsoleFrameBuffer(GameLoop.fieldWidth + 1, GameLoop.fieldHeight + 1);
                 foreach (Entity e in Entity.listOfAllEntities)
                 {
                     buffer.AddEntity(e);

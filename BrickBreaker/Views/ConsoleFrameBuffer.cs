@@ -9,14 +9,14 @@ namespace BrickBreaker.Classes
     /// <summary>
     /// An attempt to make a refreshable screen buffer object to display things on the console.
     /// </summary>
-    public class ConsoleBufferedFrame
+    public class ConsoleFrameBuffer
     {
         public int Width { get; }
         public int Height { get; }
 
         private string[,] buffer;//multidimensional arrays! cool, but they are accessed like y,x and not x,y. the game gets flipped 90 degrees sometimes with bugs
 
-        public ConsoleBufferedFrame(int width, int height)
+        public ConsoleFrameBuffer(int width, int height)
         {
             this.Width = width;
             this.Height = height;

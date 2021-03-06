@@ -35,4 +35,3 @@ C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netco
 C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.dll
 C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.pdb
 C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.genruntimeconfig.cache
-C:\Users\Paul\git\Side Projects\BrickBreaker-CSharp\BrickBreaker\obj\Debug\netcoreapp3.1\BrickBreaker.csprojAssemblyReference.cache

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BrickBreaker
+namespace BrickBreaker.Models.Moveable
 {
     /// <summary>
     /// The ball that bounces around the field and smashes bricks!
